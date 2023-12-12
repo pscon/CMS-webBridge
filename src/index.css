@@ -101,6 +101,7 @@ input {
   height:50px;
   border-radius: 5px;
 font-size: large;
+padding: 10px;
 }
 
 button {
